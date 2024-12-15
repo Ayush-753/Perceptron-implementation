@@ -4,9 +4,8 @@
 ### Manual:
 1. Write a program to demonstrate the working of different activation functions like sigmoid, tanh ReLU and Softmax to train a Neural Network.
 
-2. <br />
-    a. Design a single unit perceptron for classification og linearly separable binary dataset without using pre-defined models. Use the perceptron from sklearn. <br />
-    b. Identify the problems in single unit perceptron using AND, OR, XOR data and analyze the results.
+2. a. Design a single unit perceptron for classification og linearly separable binary dataset without using pre-defined models. Use the perceptron from sklearn. <br 
+   b. Identify the problems in single unit perceptron using AND, OR, XOR data and analyze the results.
 
 3. Build a deep feed-forward Artificial Neural Network by implementing the back propagation algorithm and test the same using appropriate datasets. Use the number of hidden layers greater than or equal to 4.
 
